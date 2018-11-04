@@ -1,5 +1,6 @@
 # Quadris school project
 Due to UW policies, students are not allowed to post code publicly. So, here's the demo.
+
 ![](demo.gif)
 
 
