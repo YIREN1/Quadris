@@ -1,4 +1,4 @@
-# CLI:
+CLI:
 "Options:\n"
 "  -text                    Run in text-only mode\n"
 "  -seed [seed]             Set the random number generator's seed\n"
@@ -7,7 +7,7 @@
 "  -help                    Display this help message\n"
 "  -dark                    Change to theme to dark mode\n"
 
-# Command:
+Command:
 "Commands:\n"
 "  left or a\n"
 "  right or d\n"
