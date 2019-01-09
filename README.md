@@ -1,4 +1,6 @@
-# Tetris school project
+# Tetris 
+
+A Tetris school project worked in a group of 3
 
 ![light mode](demo.gif)
 
