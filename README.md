@@ -1,6 +1,10 @@
 # Tetris school project
 
-![](demo.gif)
+![light mode](demo.gif)
+
+Dark Mode
+
+![dark mode](darkdemo.gif)
 
 Guess what. AI is playing.:smile:
 
